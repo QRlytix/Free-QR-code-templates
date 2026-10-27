@@ -1,0 +1,28 @@
+{
+  "name": "qr-code-templates",
+  "version": "1.0.0",
+  "author": "QRlytix",
+  "homepage": "https://qrlytix.com/?ref=github",
+  "license": "CC-BY-4.0",
+  "colors": [
+    { "id": "mono", "name": "Mono", "hex": "#0A0A0A", "suffix": "" },
+    { "id": "navy", "name": "Navy", "hex": "#1E3A8A", "suffix": "-navy" },
+    { "id": "emerald", "name": "Emerald", "hex": "#065F46", "suffix": "-emerald" },
+    { "id": "burgundy", "name": "Burgundy", "hex": "#7F1D1D", "suffix": "-burgundy" },
+    { "id": "plum", "name": "Plum", "hex": "#581C87", "suffix": "-plum" }
+  ],
+  "templates": [
+    { "id": "01-payment-standee", "name": "UPI Payment Standee", "use": "Counter-top scan-to-pay", "size": "600×900" },
+    { "id": "02-menu-table-tent", "name": "Menu Table Tent", "use": "Contactless restaurant menu", "size": "500×780" },
+    { "id": "03-review-card", "name": "Review Card", "use": "Collect Google reviews", "size": "900×540" },
+    { "id": "04-wifi-card", "name": "Wi-Fi Card", "use": "Guests join Wi-Fi without typing", "size": "600×860" },
+    { "id": "05-business-card-duo", "name": "Business Card", "use": "Front and back, vCard QR", "size": "1130×1340" },
+    { "id": "06-instagram-story", "name": "Instagram Story", "use": "Print-to-profile follow", "size": "1080×1920" },
+    { "id": "07-event-badge", "name": "Event Badge", "use": "Scan-to-connect at events", "size": "640×980" },
+    { "id": "08-product-label", "name": "Product Authenticity Label", "use": "Verify genuine products", "size": "900×520" },
+    { "id": "09-app-download", "name": "App Download Card", "use": "One scan to app stores", "size": "900×500" },
+    { "id": "10-property-sign", "name": "Property Sign Rider", "use": "Listing details from the curb", "size": "1200×500" },
+    { "id": "11-wedding-rsvp", "name": "Wedding RSVP Card", "use": "RSVP in seconds", "size": "600×860" },
+    { "id": "12-qr-frames-set", "name": "QR Frames Set", "use": "Six ready-made frames", "size": "940×800" }
+  ]
+}
